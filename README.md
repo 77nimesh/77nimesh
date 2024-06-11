@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @77nimesh
-- 👀 I’m interested in Automobiles with Artificial Intelligence
+- 👀 I’m interested in Automobiles with Artificial Intelligence 
 - 🌱 I’m currently learning Artificial Intelligence with Computer Vision
 - 💞️ I’m looking to collaborate on Automated Vehicles that allow us to make our lives easier
 - 📫 How to reach me - you can reach me at 77nimesh@gmail.com
